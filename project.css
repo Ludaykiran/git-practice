@@ -3,10 +3,11 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    background-color: green;
     
 }
 .div1:hover{
     background-color: black;
     color: white;
-   
+    
 }
